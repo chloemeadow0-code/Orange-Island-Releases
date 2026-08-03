@@ -2,5 +2,12 @@
   "versionName": "1.8.5",
   "versionCode": 35,
   "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v1.8.5/app-fdroid-debug.apk",
-  "body": "修复了一些问题"
+  "body": "1.生成设置页：
+上下文窗口滑块范围从 1-500 改为 30-100
+拖动滑块时数值实时变化
+移除了输入框和无限按钮
+在下面新增了一个独立的“无限上下文窗口”开关项，样式和其他设置项一致
+2.应用内更新提示:
+恢复了启动时自动检查更新
+新增手动检查入口"
 }

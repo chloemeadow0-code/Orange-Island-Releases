@@ -1,6 +1,6 @@
 {
-  "versionName": "1.9.1",
+  "versionName": "1.9.2",
   "versionCode": 41,
-  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v1%2C9%2C1/app-fdroid-debug.apk",
-  "body": "思维链折叠、用户消息消失、生图保存、分支切换渲染、整数溢出"
+  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v1.9.2/app-fdroid-debug.apk",
+  "body": "修复视频转述"
 }

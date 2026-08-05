@@ -1,6 +1,6 @@
 {
-  "versionName": "1.9.3",
-  "versionCode": 44,
+  "versionName": "1.9.5",
+  "versionCode": 45,
   "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v1.9.3/app-fdroid-debug.apk",
-  "body": "修复工作流"
+  "body": "新增工作流ai设定下次触发时间，新增动态追踪距离上次用户发消息时间，分贝环境变量"
 }

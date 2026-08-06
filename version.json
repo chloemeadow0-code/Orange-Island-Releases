@@ -1,6 +1,6 @@
 {
-  "versionName": "2.0.0",
-  "versionCode": 50,
-  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.0.0/app-fdroid-debug.apk",
-  "body": "新增音乐生成模型"
+  "versionName": "2.0.1",
+  "versionCode": 51,
+  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.0.1/app-fdroid-debug.apk",
+  "body": "优化音乐生成相关ui，优化不同应用锁文案"
 }

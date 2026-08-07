@@ -1,6 +1,6 @@
 {
-  "versionName": "2.0.1",
-  "versionCode": 51,
-  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.0.1/app-fdroid-debug.apk",
-  "body": "优化音乐生成相关ui，优化不同应用锁文案"
+  "versionName": "2.0.2",
+  "versionCode": 52,
+  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.0.2/app-fdroid-debug.apk",
+  "body": "修复分贝检测，修复左滑退出 app，新增纪念日功能、自定义 HTTP 请求头、对话图片管理，修复压缩后消息消失问题，新增用户气泡分行"
 }

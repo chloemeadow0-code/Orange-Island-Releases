@@ -1,6 +1,6 @@
 {
-  "versionName": "2.0.2",
-  "versionCode": 52,
-  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.0.2/app-fdroid-debug.apk",
-  "body": "修复分贝检测，修复左滑退出 app，新增纪念日功能、自定义 HTTP 请求头、对话图片管理，修复压缩后消息消失问题，新增用户气泡分行"
+  "versionName": "2.1.0",
+  "versionCode": 53,
+  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.1.0/app-fdroid-debug.apk",
+  "body": "修复压缩后消息消失问题，新增五个桌面组件，新增LLM节点调用工具能力，修复应用加载，修复对话窗口定位，修复字号问题"
 }
